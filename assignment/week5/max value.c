@@ -6,6 +6,6 @@ int main() {
 	scanf("%d %d %d", &a, &b, &c);
 	max = (a>b)?a:b;
 	max = (max>c)?max:c;
-	printf("죄대값:%d", max);
+	printf("최대값:%d", max);
 	return 0;
 }
