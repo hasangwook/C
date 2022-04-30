@@ -5,6 +5,7 @@ int main(void) {
 	printf("%s", str);
 	strcpy(str, "goodbye");
 	//가능하다. 
+	str[1] = 'j';
 	printf("%s\n", str);
 	
 	/*

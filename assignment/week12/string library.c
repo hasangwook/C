@@ -1,4 +1,3 @@
-// strcpy¿Í strcat
 #include <string.h>
 #include <stdio.h>
 
